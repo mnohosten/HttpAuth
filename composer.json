@@ -1,0 +1,15 @@
+{
+  "name": "mnohosten/http_auth",
+  "description": "Very simple implementation of Basic Http Auth.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martin Krizan",
+      "email": "mnohosten@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"": "src/"}
+  }
+}
